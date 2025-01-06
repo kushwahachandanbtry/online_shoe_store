@@ -1,4 +1,4 @@
-## online_shoe_store
+## Online Shoe Store
 This is a e-commerce website that is used to sell online shoes. 
 
 ## Key Features:
@@ -16,4 +16,5 @@ This is a e-commerce website that is used to sell online shoes.
 4. PHP
 
 ## Dashboard Access
--> Email : admin11@gmail.com,  password : admin12345678
+* Email : admin11@gmail.com
+* Password : admin12345678
